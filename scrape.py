@@ -11,13 +11,10 @@ import matplotlib.ticker as ticker
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 import requests
-[A[A[A[A[A[A[A[A[A[A[A[A[Ai[A[A[A[B[C[C[C[C[C[B[C[C[C[C[C[C[C[C[C[C[C
 
 
 
 
-[B[B[C[C[C[C[C[C[C[C[C[C[C[C
-[B[B[B[B[B[B[B[B[B# scrpe 
 no_pages = 2
 
 def get_data(pageNo):  
