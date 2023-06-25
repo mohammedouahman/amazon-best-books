@@ -41,3 +41,6 @@ The scraped data is saved in a CSV file named `amazon_products.csv`. You can fin
 
 ## Note
 This code is intended for educational purposes only. Please be respectful of website scraping policies and use this code responsibly.
+
+## Finally
+Assalamu Alaikum Warahmato *allah*
